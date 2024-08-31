@@ -1,2 +1,2 @@
 # Java-Programs
-//First tie making repository
+# This is my Repository with Simple Java Programs
